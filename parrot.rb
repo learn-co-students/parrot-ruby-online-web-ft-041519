@@ -1,6 +1,10 @@
 
-def parrot(arguments="Squawk!")
-  puts "#{arguments}"
-  "#{arguments}"
+def parrot(phrase="Squawk!")
+ puts "#{phrase}"
+ "#{phrase}"
+end
+
+
+
+
  
- end 
